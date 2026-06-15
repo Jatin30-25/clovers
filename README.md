@@ -1,2 +1,3 @@
-# clovers
-First project for hackathon
+STARTED LEARNING GIT AND GITHUB 
+<br>
+sikh raha hu 
